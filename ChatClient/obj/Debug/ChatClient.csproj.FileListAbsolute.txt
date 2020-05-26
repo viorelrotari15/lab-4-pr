@@ -1,0 +1,5 @@
+C:\Users\viore\source\repos\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\viore\source\repos\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\viore\source\repos\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\viore\source\repos\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\viore\source\repos\ChatClient\obj\Debug\ChatClient.pdb

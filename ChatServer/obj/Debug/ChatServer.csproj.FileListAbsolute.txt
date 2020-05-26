@@ -1,0 +1,6 @@
+C:\Users\viore\source\repos\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\viore\source\repos\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\viore\source\repos\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\viore\source\repos\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\viore\source\repos\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\viore\source\repos\ChatServer\obj\Debug\ChatServer.pdb
